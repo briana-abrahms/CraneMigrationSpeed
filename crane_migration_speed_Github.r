@@ -1,5 +1,5 @@
 # Code used in analyses from Abrahms et al. "Ontogenetic shifts from social to experiential learning drive avian migration speed"
-# Associated movement data is deposited in Movebank Data Repository (accession code forthcoming)
+# Associated movement data is deposited in Movebank Data Repository, https://doi.org/10.5441/001/1.t23vm852.
 # 0. Setup
 # 1. Spring model selection
 # 2. Autumn model selection, subadult
